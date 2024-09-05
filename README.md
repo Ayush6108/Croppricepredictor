@@ -1,7 +1,3 @@
-Here is a simple README.md text file that provides instructions on how to set up and run a Python program on Windows by installing Flask, scikit-learn, and NumPy.
-
-markdown
-Copy code
 # Python Program Setup and Run Guide (Windows)
 
 This guide explains how to set up and run a Python program on Windows using Flask, scikit-learn, and NumPy.
